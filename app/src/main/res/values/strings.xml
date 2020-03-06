@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="name">NAME :</string>
+    <string name="email">EMAIL :</string>
+    <string name="mobile">MOBILE NUMBER :</string>
+    <string name="records">--no records--</string>
+    <string name="write">WRITE</string>
+    <string name="read">READ</string>
+    <string name="update">UPDATE</string>
+    <string name="remove">REMOVE</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_top">40dp</dimen>
+    <dimen name="padding_side">20dp</dimen>
+    <dimen name="formsize">20sp</dimen>
+    <dimen name="form_margin_bot">20dp</dimen>
+    <dimen name="form_bot">30dp</dimen>
+    <dimen name="record_size">15sp</dimen>
+    <dimen name="btn_width">90dp</dimen>
+    <dimen name="btn_size">18sp</dimen>
+    <dimen name="btn_right">5dp</dimen>
+    <dimen name="btn_bot">30dp</dimen>
+</resources>
